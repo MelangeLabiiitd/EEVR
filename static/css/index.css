@@ -70,16 +70,21 @@ body {
 .publication-authors {
 }
 
+
 .publication-authors a {
-   color: hsl(204, 86%, 53%) !important;
+  color: hsl(204, 86%, 53%) !important;
 }
 
 .publication-authors a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .author-block {
   display: inline-block;
+}
+
+.author-titles {
+  color: #7f7f7f;
 }
 
 .publication-banner img {
