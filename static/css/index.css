@@ -160,3 +160,7 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+.image-caption {
+  font-size: 16px;
+}
